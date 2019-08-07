@@ -39,3 +39,4 @@ Mỗi API sẽ có một quy chuẩn riêng về `input` , `output` tương ứn
 ## Kết luận
 
 Vậy tóm lại, API là một thành phần, một service đảm nhận một nhiệm vụ nào đó mà qua đó chùng ta có thể  thiết kế, giao tiếp, sử dụng được với ứng dụng một cách dễ dàng mà không cần nắm rõ cấu trúc bên trong hệ thống (đúng với nghĩa `interface`).
+

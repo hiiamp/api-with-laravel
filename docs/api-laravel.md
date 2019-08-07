@@ -34,4 +34,3 @@ Laravel có một số setting mặc định cho file `api.php` này, hãy xem q
 * Middleware: Được mặc định gán `Middleware Group: api`. Có thể tìm thấy 2 `middleware` thuộc nhóm này là `throttle` (giới hạn request/time) và `bindings` (model binding) trong file `app\Providers\RouteServiceProvider.php`.
 
 Những setting mặc định này có thể được tùy chỉnh trong method `mapApiRoutes` trong file `app/Providers/RouteServiceProvider.php`.
-

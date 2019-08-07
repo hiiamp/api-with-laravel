@@ -35,3 +35,4 @@ Chú ý rằng các nguyên tắc ở trên là không bắt buộc, thực tế
 ## Kết luận
 
 Đến đây, chúng ta đã định hình được một API theo chuẩn REST là như thế nào. Phần sau tôi sẽ tiếp tục giới thiệu đến các bạn cách để xây dựng API dựa trên framework của php là laravel.
+
