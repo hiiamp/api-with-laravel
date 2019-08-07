@@ -3,4 +3,5 @@ pages:
   - Introduction: index.md
   - API: api.md
   - REST API: restapi.md
-theme: readthedocs
+  - Xây dựng API với Laravel: api-laravel.md
+

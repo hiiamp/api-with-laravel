@@ -10,9 +10,7 @@ API là viết tắt của Application Programming Interface (giao diện lập 
 
 Những ngày trước, đa phần các dự án được viết theo kiến trúc `Monolithic`, với kiểu mô hình như sau:
 
-<p align="center">
-	<img src="/image/api2.jpg" />
-</p>
+<p align="center"><img src="/image/api2.jpg" /></p>
 
 Hiểu đơn giả, kiến trúc `Monolithic` là kiểu "kiến trúc một khối", tức là đa phần các xử lý được thực hiện kết hợp, móc nối chặt chẽ với nhau.
 
